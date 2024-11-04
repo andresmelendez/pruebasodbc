@@ -55,6 +55,12 @@ if (!isset($_SESSION['usuario'])) {
                     <p>Dashboard</p>
                 </a>
             </li>
+            <li class="nav-item">
+                <a href="principal.php?CONTENIDO=app/dashboard/dashboard.php">
+                    <i class="fas fa-home"></i>
+                    <p>Dashboard</p>
+                </a>
+            </li>
             <li class="nav-section">
                 <span class="sidebar-mini-icon">
                     <i class="fa fa-ellipsis-h"></i>
